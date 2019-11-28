@@ -1,0 +1,2 @@
+# UndefinedBehaviors-C-C-
+An attempt towards understanding the trigger points of various undefined behaviours demonstrated by the C/C++ compiler variants. Largely inspired by John Regher and his blogs on UB. Undertaking this alone for the university mini project as well. This project is intended for a directed usage of knowledge gathered on UB from multiple sources. Not for profit, Owners may chose to get in touch if they feel this should not be here.
